@@ -65,16 +65,16 @@ global.ppulsa = '081232813734' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.co/ZiroMD' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62882007157628' //Nomor Bot
-global.nomorown = '6281228070013' //Nomor Owner
-global.namebot = 'ZiroBOTz-MD⚡' //Nama Bot
-global.nameown = '༄ᶜZIRO⚡☆࿐' // Nama Owner
+global.nomorbot = '62822522851438' //Nomor Bot
+global.nomorown = '62823504965328' //Nomor Owner
+global.namebot = 'NeoBot-MD⚡' //Nama Bot
+global.nameown = 'XFerDy' // Nama Owner
 global.wame = 'https://api.whatsapp.com/send?phone=+6281228070013'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281228070013', '❦ ༄ᶜZIRO⚡☆࿐ 🎐', true] //Ganti jd nomormu sama Namamu
+  ['62823504965328', 'XFerDy', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -141,13 +141,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ᚯZiroBOTz-MDメ汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZiroBOTz-MD˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ZiroBOTz-MD'
-global.namedoc = 'ZiroBOTz-MD⚡' //Main Name Menu Document
+global.wm = '                「 NeoBot-MD-MDメ汉  」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘NeoBot-MD˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ NeoBot-MD'
+global.namedoc = 'NeoBot-MD⚡' //Main Name Menu Document
 global.botdate = `⫹⫺ Day's: ${week} ${date}`
 global.bottime = `ᴛɪᴍᴇ: ${wktuwib}`
-global.titlebot = '🎋 ┊ ZiroBOTz ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ NeoBot-MD ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
 global.author = global.wm
 global.emojis = pickRandom(["👑", "🎗", "️🗿", "🕹", "️💡", "🪄", "🎈", "🎊", "🔖", "📍", "❤", "‍🔥", "💤", "💭", "🕚", "💬", "🚩", "🎐", "🍃", "🌿", "🥀", "✨", "⚡", "☂️"])
 
